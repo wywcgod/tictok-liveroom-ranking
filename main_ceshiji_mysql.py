@@ -51,9 +51,9 @@ caps["newCommandTimeout"] = 600
 
 #数据库参数
 db_config = {
-            'host': 'jt-db-server-001.mysql.polardb.rds.aliyuncs.com',
+            'host': '192.168.1.245',
             'user': 'bi_bytegame_f',
-            'passwd': "HuJSIunQ&yAI",
+            'passwd': "123456",
             'db': 'bi_bytegame',
             'charset': 'utf8mb4'
 }
